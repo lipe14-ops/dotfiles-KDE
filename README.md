@@ -8,8 +8,8 @@ just a minimalist and clean ricing.
 ![](./images/image3.png)
 ***
 ## spicetify:
-color_scheme - UltraBlack
-current_theme - Sleek
+* color_scheme - UltraBlack
+* current_theme - Sleek
 
 ## images elements:
 * Manjaro
