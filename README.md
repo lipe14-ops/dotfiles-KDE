@@ -7,11 +7,15 @@ just a minimalist and clean ricing.
 ![](./images/image2.png)
 ![](./images/image3.png)
 ***
+## spicetify:
+color_scheme - UltraBlack
+current_theme - Sleek
+
 ## images elements:
-* manjaro
+* Manjaro
 * Kwin krohnkite
 * Alacritty
-* neovim 
+* Neovim
 * Cava
 * Pipes.sh
 * Dunst
