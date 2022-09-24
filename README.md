@@ -7,7 +7,15 @@ just a minimalist and clean ricing.
 ![](./images/image2.png)
 ![](./images/image3.png)
 ***
-## spicetify:
+## applications:
+### better discord:
+* theme - DiscordNight
+
+### vscode:
+* theme - simpledark
+* icons - VSCode Icons
+
+### spicetify:
 * color_scheme - UltraBlack
 * current_theme - Sleek
 
@@ -37,4 +45,3 @@ just a minimalist and clean ricing.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fn697169@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipe_1408/)
-# dotfiles-KDE
