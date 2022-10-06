@@ -1,5 +1,8 @@
 call plug#begin()
 "plugins""""""
+Plug 'dinhhuy258/git.nvim'
+Plug 'startup-nvim/startup.nvim',
+Plug 'folke/zen-mode.nvim',
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
 Plug 'lewis6991/gitsigns.nvim'
@@ -16,6 +19,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'xuyuanp/nerdtree-git-plugin'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 call plug#end()
 
 
@@ -23,7 +27,7 @@ call plug#end()
 
 syntax on
 
-set nu
+set rnu nu
 set noro
 set tabstop=4
 set scrolloff=10
